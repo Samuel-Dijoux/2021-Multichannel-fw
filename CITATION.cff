@@ -1,0 +1,14 @@
+cff-version: 1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Dijoux"
+  given-names: "Samuel"
+  orcid: "https://orcid.org/0000-0002-8086-7696"
+- family-names: "Boukal"
+  given-names: "David S."
+  orcid: "https://orcid.org/0000-0001-8181-7458"
+title: "2021-Multichannel food webs"
+version: 1.0
+doi: 10.5281/zenodo.4580495
+date-released: 2021-03-04
+url: "https://doi.org/10.5281/zenodo.4580495"
