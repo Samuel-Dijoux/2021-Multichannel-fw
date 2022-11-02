@@ -6,4 +6,4 @@ Dijoux, S. and Boukal, D.S. (2021), Community structure and collapses in multich
 
 Cite the code: [![DOI](https://zenodo.org/badge/344440246.svg)](https://zenodo.org/badge/latestdoi/344440246)
 
-[URL]: https://comments.amnat.org/2021/12/guidelines-for-archiving-code-with-data.html
+[URL]: https://onlinelibrary.wiley.com/doi/10.1111/ele.13772
